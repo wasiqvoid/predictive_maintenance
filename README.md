@@ -98,18 +98,7 @@ NASA CMAPSS (Commercial Modular Aero-Propulsion System Simulation)
 - 🚨 Alert board ranked by risk score
 - 📈 Model performance comparison
 - 🔑 Feature importance visualization
-
----
-
-## 💡 Why This Matters for HelixIntel
-
-HelixIntel's PropertyOS uses predictive analytics to identify equipment failures before they happen. This project demonstrates:
-
-1. **Same problem domain** — predict failure from sensor/operational data
-2. **Production-ready approach** — modular code, saved models, scalable pipeline
-3. **Business-facing output** — dashboard that maintenance teams could actually use
-4. **End-to-end ownership** — data generation through model deployment
-
+  
 ---
 
 ## 📬 Contact
