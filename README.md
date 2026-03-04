@@ -9,8 +9,7 @@
 
 ## 🎯 Project Overview
 
-This project builds a predictive maintenance system that predicts **when industrial equipment will fail** before it actually does — the exact problem HelixIntel's PropertyOS platform solves for maintenance teams.
-
+This project builds a predictive maintenance system that predicts **when industrial equipment will fail** before it actually does
 **Two ML tasks:**
 - **RUL Regression** — predict exact remaining useful life in cycles
 - **Failure Classification** — alert when failure is imminent (within 30 cycles)
