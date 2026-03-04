@@ -9,3 +9,4 @@ data/train_features.csv
 data/test_features.csv
 models/*.pkl
 assets/
+data/train_features.csv
